@@ -127,6 +127,42 @@ a {
 }
 
 .quote-author {
+  font-weight: 700;
   margin: 0;
   margin-left: 600px;
 }
+
+.sign-up-container{
+  color: white;
+  background-color: #3882F6;
+  max-width: 700px;
+  margin: 80px auto;
+  padding: 2.5em 5em;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 120px;
+}
+
+.sign-up-container button {
+  font-family: Roboto, sans-serif;
+  border: none;
+  color: white;
+  background-color: #3882F6;
+  padding: 0.5em 2em;
+  border-radius: 5px;
+  border: 2px solid white;
+}
+
+.sign-up-subtext, .sign-up-text{
+  margin: 0;
+}
+
+.sign-up-text{
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+
