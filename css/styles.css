@@ -165,4 +165,11 @@ a {
   margin-bottom: 10px;
 }
 
+footer {
+  color: white;
+  text-align: center;
+  background-color: #1F2937;
+  padding: 2em 0;
+}
+
 
